@@ -13,8 +13,8 @@ Estudo do ataque DDoS e mitigações
 Ferramentas: Wireshark, OpenSSL, Nmap, Cisco Packet Tracer
 Relatório completo: disponível em Trabalho3_Seg_Comp-2.pdf
 
-Autores: 
-Guilherme Miranda de Matos
-Carlos Eduardo de Sousa Arnaud
-Paulo Henrique Borges Martins - Elaboração de políticas de segurança e implementação de regras de firewall e Access Control Lists (ACLs) no Cisco Packet Tracer.
-Pedro Amorim de Gregori
+Autores:   
+Guilherme Miranda de Matos  
+Carlos Eduardo de Sousa Arnaud  
+Paulo Henrique Borges Martins - Elaboração de políticas de segurança e implementação de regras de firewall e Access Control Lists (ACLs) no Cisco Packet Tracer.  
+Pedro Amorim de Gregori  
