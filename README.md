@@ -2,7 +2,7 @@
 
 Projeto em grupo no qual avaliamos a infraestrutura de uma empresa fictícia (SecureTech).
 
-O que foi feito
+O que foi feito:
 
 Captura e análise de tráfego HTTP vs HTTPS com Wireshark, incluindo o handshake TLS 1.2
 Inspeção de certificados e cadeias de confiança (google.com, nubank.com.br, gov.br) com OpenSSL
